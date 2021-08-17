@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/video-streaming-app/static/css/main.f29a6df6.chunk.css",
-    "main.js": "/video-streaming-app/static/js/main.4f05472b.chunk.js",
-    "main.js.map": "/video-streaming-app/static/js/main.4f05472b.chunk.js.map",
+    "main.js": "/video-streaming-app/static/js/main.552749d0.chunk.js",
+    "main.js.map": "/video-streaming-app/static/js/main.552749d0.chunk.js.map",
     "runtime-main.js": "/video-streaming-app/static/js/runtime-main.d4eba454.js",
     "runtime-main.js.map": "/video-streaming-app/static/js/runtime-main.d4eba454.js.map",
-    "static/js/2.81962d01.chunk.js": "/video-streaming-app/static/js/2.81962d01.chunk.js",
-    "static/js/2.81962d01.chunk.js.map": "/video-streaming-app/static/js/2.81962d01.chunk.js.map",
+    "static/js/2.d3509e82.chunk.js": "/video-streaming-app/static/js/2.d3509e82.chunk.js",
+    "static/js/2.d3509e82.chunk.js.map": "/video-streaming-app/static/js/2.d3509e82.chunk.js.map",
     "static/js/3.8eaadb19.chunk.js": "/video-streaming-app/static/js/3.8eaadb19.chunk.js",
     "static/js/3.8eaadb19.chunk.js.map": "/video-streaming-app/static/js/3.8eaadb19.chunk.js.map",
     "index.html": "/video-streaming-app/index.html",
     "static/css/main.f29a6df6.chunk.css.map": "/video-streaming-app/static/css/main.f29a6df6.chunk.css.map",
-    "static/js/2.81962d01.chunk.js.LICENSE.txt": "/video-streaming-app/static/js/2.81962d01.chunk.js.LICENSE.txt"
+    "static/js/2.d3509e82.chunk.js.LICENSE.txt": "/video-streaming-app/static/js/2.d3509e82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d4eba454.js",
-    "static/js/2.81962d01.chunk.js",
+    "static/js/2.d3509e82.chunk.js",
     "static/css/main.f29a6df6.chunk.css",
-    "static/js/main.4f05472b.chunk.js"
+    "static/js/main.552749d0.chunk.js"
   ]
 }
